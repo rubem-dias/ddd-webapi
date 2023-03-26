@@ -1,0 +1,12 @@
+/home/rubem/Dev/ddd-project-aspnet/Reactivities/Domain/bin/Debug/net6.0/Domain.deps.json
+/home/rubem/Dev/ddd-project-aspnet/Reactivities/Domain/bin/Debug/net6.0/Domain.dll
+/home/rubem/Dev/ddd-project-aspnet/Reactivities/Domain/bin/Debug/net6.0/ref/Domain.dll
+/home/rubem/Dev/ddd-project-aspnet/Reactivities/Domain/bin/Debug/net6.0/Domain.pdb
+/home/rubem/Dev/ddd-project-aspnet/Reactivities/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+/home/rubem/Dev/ddd-project-aspnet/Reactivities/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/rubem/Dev/ddd-project-aspnet/Reactivities/Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+/home/rubem/Dev/ddd-project-aspnet/Reactivities/Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+/home/rubem/Dev/ddd-project-aspnet/Reactivities/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+/home/rubem/Dev/ddd-project-aspnet/Reactivities/Domain/obj/Debug/net6.0/Domain.dll
+/home/rubem/Dev/ddd-project-aspnet/Reactivities/Domain/obj/Debug/net6.0/ref/Domain.dll
+/home/rubem/Dev/ddd-project-aspnet/Reactivities/Domain/obj/Debug/net6.0/Domain.pdb

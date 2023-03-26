@@ -1,0 +1,15 @@
+/home/rubem/Dev/ddd-project-aspnet/Reactivities/Persistence/bin/Debug/net6.0/Persistence.deps.json
+/home/rubem/Dev/ddd-project-aspnet/Reactivities/Persistence/bin/Debug/net6.0/Persistence.dll
+/home/rubem/Dev/ddd-project-aspnet/Reactivities/Persistence/bin/Debug/net6.0/ref/Persistence.dll
+/home/rubem/Dev/ddd-project-aspnet/Reactivities/Persistence/bin/Debug/net6.0/Persistence.pdb
+/home/rubem/Dev/ddd-project-aspnet/Reactivities/Persistence/bin/Debug/net6.0/Domain.dll
+/home/rubem/Dev/ddd-project-aspnet/Reactivities/Persistence/bin/Debug/net6.0/Domain.pdb
+/home/rubem/Dev/ddd-project-aspnet/Reactivities/Persistence/obj/Debug/net6.0/Persistence.csproj.AssemblyReference.cache
+/home/rubem/Dev/ddd-project-aspnet/Reactivities/Persistence/obj/Debug/net6.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/rubem/Dev/ddd-project-aspnet/Reactivities/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfoInputs.cache
+/home/rubem/Dev/ddd-project-aspnet/Reactivities/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfo.cs
+/home/rubem/Dev/ddd-project-aspnet/Reactivities/Persistence/obj/Debug/net6.0/Persistence.csproj.CoreCompileInputs.cache
+/home/rubem/Dev/ddd-project-aspnet/Reactivities/Persistence/obj/Debug/net6.0/Persistence.csproj.CopyComplete
+/home/rubem/Dev/ddd-project-aspnet/Reactivities/Persistence/obj/Debug/net6.0/Persistence.dll
+/home/rubem/Dev/ddd-project-aspnet/Reactivities/Persistence/obj/Debug/net6.0/ref/Persistence.dll
+/home/rubem/Dev/ddd-project-aspnet/Reactivities/Persistence/obj/Debug/net6.0/Persistence.pdb
