@@ -30,4 +30,20 @@ app.UseAuthorization();
 
 app.MapControllers();
 
+// scoped: autodestroy when run again, and create another instance
+// setting all the migration to db
+using var scope = app.Services.CreateScope();
+var services = scope.ServiceProvider;
+
+try 
+{
+    var context = services.GetRequiredService<DataContext>();
+    context.Database.Migrate();
+} 
+catch (System.Exception ex) 
+{
+    var logger = services.GetRequiredService<ILogger<Program>>();
+    logger.LogError(ex, "An error occurred during migration");
+}
+
 app.Run();
