@@ -11,10 +11,20 @@ builder.Services.AddCors( opt => {
 
 ```
 creating with this code, a service acepting cors in this FRONT-END URL
-> after that\
+> after that.\
 
 ```
 app.UseCors("CorsPolicy");
 
 ```
-passing the same <b>CorsPolicy</b> from Serives.AddCors to <b>app.UseCors</b>;
+passing the same <b>CorsPolicy</b> from Services.AddCors to <b>app.UseCors</b>;
+
+## SEMANTIC UI
+
+```
+npm install semantic-ui-react semantic-ui-css
+```
+and add css references
+```
+import 'semantic-ui-css/semantic.min.css'
+```
