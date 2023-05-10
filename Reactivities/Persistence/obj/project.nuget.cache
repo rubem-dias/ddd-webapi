@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0T1OVUDDDAthLFJOEdb/XYLG3Ax77oP8nljQcWqURL7qs1oZx4GTeOj0BtgLr8hcK4KVWO5HxyWjqJCzDw/FWA==",
+  "dgSpecHash": "mqC1nl4TXiDG7uD9AaZkamxPwBIvT8bBaJ4Ms85KbRX/hgi631Rnxj/4cE9ZkcG25cF30b98WPPmZ2KVx97IKA==",
   "success": true,
   "projectFilePath": "/home/rubem/Dev/ddd-project-aspnet/Reactivities/Persistence/Persistence.csproj",
   "expectedPackageFiles": [

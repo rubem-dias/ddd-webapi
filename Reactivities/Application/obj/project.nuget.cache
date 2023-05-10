@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "6RK6PKNmuSuhbN2FSksH2VJD3Abldzo/XtEr68h2FI6CGoK/Ar6TUORPDT0RRIP7upVW7JfkC9K8TdWWkKBc/A==",
+  "dgSpecHash": "sM5EF5XLJzmaIE8szb9r1ZCr3w4W3ualTPOyHIHaLR+/jXsmLYm22gthrxghDj9vl5Ab7AGfNQlweWnnlJugFg==",
   "success": true,
   "projectFilePath": "/home/rubem/Dev/ddd-project-aspnet/Reactivities/Application/Application.csproj",
   "expectedPackageFiles": [
+    "/home/rubem/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/home/rubem/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/home/rubem/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "/home/rubem/.nuget/packages/microsoft.data.sqlite.core/7.0.4/microsoft.data.sqlite.core.7.0.4.nupkg.sha512",
     "/home/rubem/.nuget/packages/microsoft.entityframeworkcore/7.0.4/microsoft.entityframeworkcore.7.0.4.nupkg.sha512",
     "/home/rubem/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.4/microsoft.entityframeworkcore.abstractions.7.0.4.nupkg.sha512",

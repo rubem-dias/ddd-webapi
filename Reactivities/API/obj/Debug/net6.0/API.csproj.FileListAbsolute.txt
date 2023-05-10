@@ -79,3 +79,6 @@
 /home/rubem/Dev/ddd-project-aspnet/Reactivities/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
 /home/rubem/Dev/ddd-project-aspnet/Reactivities/API/bin/Debug/net6.0/Mono.TextTemplating.dll
 /home/rubem/Dev/ddd-project-aspnet/Reactivities/API/bin/Debug/net6.0/System.CodeDom.dll
+/home/rubem/Dev/ddd-project-aspnet/Reactivities/API/bin/Debug/net6.0/MediatR.dll
+/home/rubem/Dev/ddd-project-aspnet/Reactivities/API/bin/Debug/net6.0/MediatR.Contracts.dll
+/home/rubem/Dev/ddd-project-aspnet/Reactivities/API/bin/Debug/net6.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
